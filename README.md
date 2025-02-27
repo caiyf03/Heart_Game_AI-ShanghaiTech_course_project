@@ -1,3 +1,5 @@
+This is for my ShanghaiTech Artificial Intelligent Course final project
+
 Due to the high difficulty of Hearts, it was challenging to find reference materials online. Our code framework was sourced from {\url{https://github.com/pjgao/MonteCarloHeartsAI}}， which is an unfinished codebase, only defined the rules of Hearts and provided a sample. It is crucial to note that the designed code does not adhere to the game rules. In other words, its decision design does not align with Hearts rules, resulting in incorrect card plays. The conclusions drawn from the original code are therefore not reliable. Nevertheless, it served only as a reference for understanding the game, and we made extensive modifications and debugging.
 
 In addition to this, we independently made various contributions:
